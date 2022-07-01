@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gren">#08E4A6</color>
+    <color name="red">#D81128</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#dfdede</color>
+    <color name="abu">#F9F9F9</color>
+    <color name="btn_light">#F7F7F7</color>
+    <color name="mode_night">#060709</color>
+    <color name="btn_night">#0B0D10</color>
+    <color name="bg_night">#0D0F13</color>
+</resources>
